@@ -13,7 +13,7 @@ Library    ../Reusable/pom.py
 
 ${pop_cou}    Data Science Course:Artificial Intelligence Course:Machine Learning Certification Course:Python Certification
 ${url}    https://intellipaat.com/
-${browsername}    headlesschrome
+${browsername}    chrome
 # //h4[text()='Popular Courses']/following-sibling::p[1]/a[text()='Data Science Course']
 
 
